@@ -1,0 +1,95 @@
+{
+    "works" : [
+        {
+            "id" : 1,
+            "icon_name": "icon fa fa-chain fa-2x",
+            "title": "Interviews",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+        },
+        {
+            "id" : 2,
+            "icon_name": "icon fa fa-bolt fa-2x",
+            "title": "Competition",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+        },
+        {
+            "id" : 3,
+            "icon_name": "icon fa fa-tachometer fa-2x",
+            "title": "Stories",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+        }
+    ],
+
+    "portfolio" : [
+        {
+            "id":1,
+            "image": "/images/Portfolio/84882.jpg"
+        },
+        {
+            "id":2,
+            "image": "/images/Portfolio/kk.jpg"
+        },
+        {
+            "id":3,
+            "image": "/images/Portfolio/arab.jpg"
+        },
+        {
+            "id":4,
+            "image": "/images/Portfolio/ee.jpg"
+        },
+        {
+            "id":5,
+            "image": "/images/Portfolio/hasan.jpg"
+        },
+        {
+            "id":6,
+            "image": "/images/Portfolio/hasan2.jpg"
+        },
+        {
+            "id":7,
+            "image": "/images/Portfolio/Rio.jpg"
+        },
+        {
+            "id":8,
+            "image": "/images/Portfolio/ff.jpg"
+        }
+    ] ,
+    "social" : [
+        {
+            "id": 1,
+            "icon" : "icon fa fa-facebook fa-lg",
+            "title" : "Follow Me on",
+            "body" : "Social Facebook"
+        },
+        {
+            "id": 2,
+            "icon" : "icon fa fa-twitter fa-lg",
+            "title" : "Tweet Me on",
+            "body" : "Social twitter"
+        },
+        {
+            "id": 3,
+            "icon" : "icon fa fa-pinterest fa-lg",
+            "title" : "Pin Me on",
+            "body" : "Social Pinterest"
+        }
+    ] ,
+    "profile" : [
+        {
+            "id":1,
+            "lang":"Training",
+            "prog":"100%"
+        },
+        {
+            "id":2,
+            "lang":"Competition",
+            "prog":"90%"
+        },
+        {
+            "id":3,
+            "lang":"Champoins",
+            "prog":"80%"
+        }
+    ]
+
+}
